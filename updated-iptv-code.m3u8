@@ -1,6 +1,6 @@
 #EXTM3U
 
-# RUV2
+# RUV
 #EXTINF:-1 tvg-id="RUV.is" tvg-logo="https://images.nyr.ruv.is/media/public/documents/ruv_rgb.png" group-title="World News",RÚV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 
