@@ -102,7 +102,7 @@ https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 
 # AMC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Entertainment",AMC
-https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999316
 
 # AMC+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/abtANyj.png" group-title="Entertainment",AMC+
@@ -150,11 +150,11 @@ http://fl2.moveonjoy.com/FUSE/index.m3u8
 
 # FX
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX
-http://fl2.moveonjoy.com/FX/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999915
 
 # FXX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="Entertainment",FXX
-http://fl2.moveonjoy.com/FXX/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999399
 
 # Hallmark Channel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Entertainment",Hallmark Channel
@@ -302,7 +302,7 @@ http://blazetv.link:8080/petersjh@velocity.net/5285616160/999609
 
 # Starz
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="Movies",Starz
-http://fl2.moveonjoy.com/STARZ/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999611
 
 # Starz Comedy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="Movies",Starz Comedy
