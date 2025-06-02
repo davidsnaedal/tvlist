@@ -6,7 +6,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 
 # BBC World News
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bbc-world-news6618.jpg" group-title="World News",BBC World News
-http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999753
 
 # CGTN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="World News",CGTN
@@ -15,14 +15,6 @@ https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 # CNA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="World News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-# CNN International (Opt-2)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="World News",CNN International (Opt-2)
-http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-
-# DW English
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="World News",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 # NHK World Japan
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="World News",NHK World Japan
@@ -56,49 +48,9 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="News + Opinion",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 
-# LiveNOW from FOX
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News + Opinion",LiveNOW from FOX
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-# NBC News Now
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/fitzytv-dvr.appspot.com/channel_icons/NBCNewsNow300x300.png" group-title="News + Opinion",NBC News Now
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5df97894467dfa00091c873c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=213&terminate=false&userId=8
-
-# The First
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dcV5cWf.png" group-title="News + Opinion",The First
-http://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8
-
-# The Young Turks
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="News + Opinion",The Young Turks
-https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-
-# Bloomberg Quicktake
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JcYhoKY.png" group-title="Business",Bloomberg Quicktake
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-
-# Bloomberg Television
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg Television
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-
-# Bloomberg Television(Opt-2)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg Television(Opt-2)
-http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-
-# Bloomberg TV+
-#EXTINF:-1 tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_.jpg" group-title="Business",Bloomberg TV+
-https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-
 # ABC (KMBC)
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Entertainment",ABC (KMBC)
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-
-# ABC Me
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6NyFLAm.png" group-title="Entertainment",ABC Me
-https://c.mjh.nz/abc-me.m3u8
-
-# Ace TV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KtXQeeZ.png" group-title="Entertainment",Ace TV
-https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 
 # AMC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Entertainment",AMC
@@ -114,11 +66,11 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 # BBC America
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999331
 
 # BET
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="Entertainment",BET
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999332
 
 # Bounce TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Entertainment",Bounce TV
@@ -134,15 +86,11 @@ https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 # Bravo
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bravo-tv-logo-9E97EDC900-seeklogo.com.png" group-title="Entertainment",Bravo
-https://fl2.moveonjoy.com/BRAVO/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999340
 
 # Circle
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="Entertainment",Circle
-https://circle-roku.amagi.tv/playlist.m3u8
-
-# CMT
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/392-3925337_cmt-logo-png-transparent-png.png" group-title="Entertainment",CMT
-http://fl3.moveonjoy.com/CMT/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/759549
 
 # Fuse
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="Entertainment",Fuse
@@ -158,59 +106,15 @@ http://blazetv.link:8080/petersjh@velocity.net/5285616160/999399
 
 # Hallmark Channel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Entertainment",Hallmark Channel
-http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-
-# Hallmark Drama
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/194-1948778_hallmark-drama-channel-hallmark-channel-logo.png" group-title="Entertainment",Hallmark Drama
-https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-
-# Heartland
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="Entertainment",Heartland
-https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999411
 
 # ION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Entertainment",ION
-https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
-
-# ION (Opt-2)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Entertainment",ION (Opt-2)
-http://fl2.moveonjoy.com/ION_TV/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999431
 
 # ION Plus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="Entertainment",ION Plus
-https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
-
-# ION Plus (Opt-2)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="Entertainment",ION Plus (Opt-2)
-http://fl3.moveonjoy.com/ION_Plus/index.m3u8
-
-# Lifetime
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/lifetime-tv-logo-F20AAEFC65-seeklogo.com.png" group-title="Entertainment",Lifetime
-http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-
-# Logo
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png" group-title="Entertainment",Logo
-http://fl3.moveonjoy.com/Logo/index.m3u8
-
-# MeTV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png" group-title="Entertainment",MeTV
-https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
-
-# MeTV (Opt-2)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png" group-title="Entertainment",MeTV (Opt-2)
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-
-# MeTV (Opt-3)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png"group-title="Entertainment",MeTV (Opt-3)
-http://fl2.moveonjoy.com/ME_TV/index.m3u8
-
-# MHz Networks
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="Entertainment",MHz Networks
-https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
-
-# Midnight Pulp
-#EXTINF:-1 tvg-logo="https://www.midnightpulp.com/images/midnightpulp/midnightpulp_logo_image.png" group-title="Entertainment",Midnight Pulp
-https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999430
 
 # Paramount Network
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Entertainment",Paramount Network
@@ -222,7 +126,7 @@ http://blazetv.link:8080/petersjh@velocity.net/5285616160/999613
 
 # USA Network
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999520
 
 # CineLife
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",CineLife
@@ -234,55 +138,35 @@ http://blazetv.link:8080/petersjh@velocity.net/5285616160/999899
 
 # Cinemax More Max
 #EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/moremax.png" group-title="Movies",Cinemax More Max
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999904
 
 # Cinemax Outer Max
 #EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png" group-title="Movies",Cinemax Outer Max
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-
-# Classic Cinema Online
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="Movies",Classic Cinema Online
-https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
-
-# Crave 1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies",Crave 1
-http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-
-# Crave 2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",Crave 2
-http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-
-# Crave 3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="Movies",Crave 3
-http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-
-# Crave 4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Movies",Crave 4
-http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999907
 
 # FXM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FXM
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/1041117
 
 # HBO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://143.244.60.30/HBO/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/1041120
 
 # HBO 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="Movies",HBO 2
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/1041121
 
 # HBO Comedy
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="Movies",HBO Comedy
-http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999923
 
 # HBO Family
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="Movies",HBO Family
-http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999924
 
 # HBO Zone
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="Movies",HBO Zone
-http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999928
 
 # Hi-Yah!
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="Movies",Hi-Yah!
@@ -294,7 +178,7 @@ https://lte.wiseplayout.com/WiseM3U8_10/master.m3u8
 
 # Showtime
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999946
 
 # Sony Movies
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies
@@ -302,31 +186,27 @@ http://blazetv.link:8080/petersjh@velocity.net/5285616160/999609
 
 # Starz
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="Movies",Starz
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999611
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999962
 
 # Starz Comedy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="Movies",Starz Comedy
-http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999966
 
 # Starz Edge
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="Movies",Starz Edge
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999967
 
 # Starz Encore
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="Movies",Starz Encore
-http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999969
 
 # Starz Encore Action
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999971
 
 # Starz Encore Classic
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="Movies",Starz Encore Classic
-http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-
-# Toonami Aftermath Movies
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Movies",Toonami Aftermath Movies
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999975
 
 # UDU.tv
 #EXTINF:-1 tvg-logo="https://udu.tv/wp-content/uploads/2022/08/UDUtv-Logo-cropped.png" group-title="Movies",UDU.tv
@@ -340,37 +220,21 @@ https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="Westerns",Grit (Opt-2)
 https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 
-# Grit (Opt-3)
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="Westerns",Grit (Opt-3)
-http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
-
-# Grit Xtra
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Grit_Xtra.png" group-title="Westerns",Grit Xtra
-https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
-
 # Starz Encore Westerns
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title=Westerns",Starz Encore Westerns
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-
-# Dateline 24/7
-#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/9/29/Dateline-webApp-Assets-Dateline-Logo-White900x2442.png" group-title="Crime",Dateline 24/7
-https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999970
 
 # Animal Planet
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="Documentary",Animal Planet
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-
-# Discovery HD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png" group-title="Documentary",Discovery HD
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/706285
 
 # Discovery Channel
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentary",Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/706286
 
 # Discovery Science
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="Documentary",Discovery Science
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/706288
 
 # History Hit Channel
 #EXTINF:-1 tvg-logo="https://historyhit.com/app/uploads/2020/09/Logo_Dark.png" group-title="Documentary",History Hit Channel
@@ -378,108 +242,17 @@ https://lds-timeline-plex.amagi.tv/playlist.m3u8
 
 # National Geographic Channel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="Documentary",National Geographic Channel
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999461
 
 # NatGeo Wild
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentary",NatGeo Wild
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999459
 
-# HGTV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="Lifestyle",HGTV
-https://fl2.moveonjoy.com/HGTV/index.m3u8
-
-# HGTV (Opt-2)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="Lifestyle",HGTV (Opt-2)
-https://varun-iptv.netlify.app/m3u/HGTV.m3u8
-
-# Investment Pitch
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="Lifestyle",Investment Pitch
-https://www.30a-tv.com/InvPit.m3u8
-
-# MTV U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3x2nmDh.jpeg" group-title="Lifestyle",MTV U
-https://fl2.moveonjoy.com/MTV_U/index.m3u8
-
-# ACC Network
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",ACC Network
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-
-# Adventure Sports TV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9oyc88J.png" group-title="Sports",Adventure Sports TV
-https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
+# CBS SPORTS HQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",CBS SPORTS HQ
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999994
 
 # BeIN Sports
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports",BeIN Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/1001119
 
-# BEK TV Sports
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="Sports",BEK TV Sports
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-
-# Big Ten Network
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="Sports",Big Ten Network
-https://fl2.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-
-# Billiard TV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="Sports",Billiard TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
-
-# CBS Sports Network
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS Sports Network
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-# ESPN 2
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="Sports",ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-
-# ESPN News
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="Sports",ESPN News
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-
-# ESPN U
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="Sports",ESPN U
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-
-# Fox Sports 1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-# Fox Sports 2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-
-# Fubo Sports Network
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports Network
-https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
-
-# Golf Channel
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="Sports",Golf Channel
-http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-
-# Golf Kingdom
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ubX7Ezq.jpeg" group-title="Sports",Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8
-
-# Manchester United TV
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",Manchester United TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-# Marquee Sports Network
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="Sports",Marquee Sports Network
-https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8
-
-# MAV TV
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="Sports",MAV TV
-http://fl2.moveonjoy.com/MAV_TV/index.m3u8
-
-# NBC Golf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="Sports",NBC Golf
-http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-
-# One Golf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="Sports",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-# PGA Tour
-#EXTINF:-1 tvg-id="PGATour.us" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",PGA Tour
-https://apollo.production-public.tubi.io/live/ac-pga3.m3u8
