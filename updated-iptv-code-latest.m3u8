@@ -1,0 +1,258 @@
+#EXTM3U
+
+# BBC News
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="World News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+# BBC World News
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bbc-world-news6618.jpg" group-title="World News",BBC World News
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999753
+
+# CGTN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="World News",CGTN
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+
+# CNA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="World News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+# NHK World Japan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="World News",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+# Sky News
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png" group-title="World News",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+# Sky News (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png" group-title="World News",Sky News (Opt-2)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+
+# TalkTV
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="World News",TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+# TeleSUR English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="World News",TeleSUR English
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+
+# CNN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="News + Opinion",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+# Fox News Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News + Opinion",Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+# Free Speech TV
+#EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="News + Opinion",Free Speech TV
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+
+# ABC (KMBC)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Entertainment",ABC (KMBC)
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+
+# AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Entertainment",AMC
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999316
+
+# AMC+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/abtANyj.png" group-title="Entertainment",AMC+
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+
+# AMG TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Entertainment",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+# BBC America
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999331
+
+# BET
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="Entertainment",BET
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999332
+
+# Bounce TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Entertainment",Bounce TV
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+
+# Bounce TV (Opt-2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Entertainment",Bounce TV (Opt-2)
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+
+# Bounce XL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzxgSkc.png" group-title="Entertainment",Bounce XL
+https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8
+
+# Bravo
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bravo-tv-logo-9E97EDC900-seeklogo.com.png" group-title="Entertainment",Bravo
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999340
+
+# Circle
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="Entertainment",Circle
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/759549
+
+# Fuse
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="Entertainment",Fuse
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+
+# FX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999915
+
+# FXX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="Entertainment",FXX
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999399
+
+# Hallmark Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Entertainment",Hallmark Channel
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999411
+
+# ION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Entertainment",ION
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999431
+
+# ION Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="Entertainment",ION Plus
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999430
+
+# Paramount Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Entertainment",Paramount Network
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999472
+
+# Syfy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Entertainment",Syfy
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999613
+
+# USA Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999520
+
+# CineLife
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+# Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999899
+
+# Cinemax More Max
+#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/moremax.png" group-title="Movies",Cinemax More Max
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999904
+
+# Cinemax Outer Max
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png" group-title="Movies",Cinemax Outer Max
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999907
+
+# FXM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FXM
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/1041117
+
+# HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/1041120
+
+# HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="Movies",HBO 2
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/1041121
+
+# HBO Comedy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="Movies",HBO Comedy
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999923
+
+# HBO Family
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="Movies",HBO Family
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999924
+
+# HBO Zone
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="Movies",HBO Zone
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999928
+
+# Hi-Yah!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="Movies",Hi-Yah!
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+
+# Kung Fu+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.watchneptune.tv/app-images/kung-fu-plus--thumb-horizontal-1716930234.jpg" group-title="Movies",Kung Fu+
+https://lte.wiseplayout.com/WiseM3U8_10/master.m3u8
+
+# Showtime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999946
+
+# Sony Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999609
+
+# Starz
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="Movies",Starz
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999962
+
+# Starz Comedy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="Movies",Starz Comedy
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999966
+
+# Starz Edge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="Movies",Starz Edge
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999967
+
+# Starz Encore
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="Movies",Starz Encore
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999969
+
+# Starz Encore Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999971
+
+# Starz Encore Classic
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="Movies",Starz Encore Classic
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999975
+
+# UDU.tv
+#EXTINF:-1 tvg-logo="https://udu.tv/wp-content/uploads/2022/08/UDUtv-Logo-cropped.png" group-title="Movies",UDU.tv
+https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
+
+# Grit
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="Westerns",Grit
+https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+
+# Grit (Opt-2)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="Westerns",Grit (Opt-2)
+https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+
+# Starz Encore Westerns
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title=Westerns",Starz Encore Westerns
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999970
+
+# Animal Planet
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="Documentary",Animal Planet
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/706285
+
+# Discovery Channel
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentary",Discovery Channel
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/706286
+
+# Discovery Science
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="Documentary",Discovery Science
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/706288
+
+# History Hit Channel
+#EXTINF:-1 tvg-logo="https://historyhit.com/app/uploads/2020/09/Logo_Dark.png" group-title="Documentary",History Hit Channel
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+
+# National Geographic Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="Documentary",National Geographic Channel
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999461
+
+# NatGeo Wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentary",NatGeo Wild
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999459
+
+# CBS SPORTS HQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",CBS SPORTS HQ
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/999994
+
+# BeIN Sports
+#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports",BeIN Sports
+http://blazetv.link:8080/petersjh@velocity.net/5285616160/1001119
+
