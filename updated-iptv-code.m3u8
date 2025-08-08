@@ -98,16 +98,15 @@ http://fl2.moveonjoy.com/FUSE/index.m3u8
 
 # FX
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999915
+https://fl5.moveonjoy.com/FX/index.m3u8
 
 # FXX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="Entertainment",FXX
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999399
+https://fl3.moveonjoy.com/FXX/tracks-v1a1/mono.ts.m3u8
 
 # Hallmark Channel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Entertainment",Hallmark Channel
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999411
-
+https://fl3.moveonjoy.com/HALLMARK_CHANNEL/tracks-v1a1/mono.ts.m3u8
 # ION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Entertainment",ION
 http://blazetv.link:8080/petersjh@velocity.net/5285616160/999431
