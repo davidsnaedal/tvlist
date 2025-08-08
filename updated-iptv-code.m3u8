@@ -109,7 +109,7 @@ https://fl3.moveonjoy.com/FXX/tracks-v1a1/mono.ts.m3u8
 https://fl3.moveonjoy.com/HALLMARK_CHANNEL/tracks-v1a1/mono.ts.m3u8
 # ION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Entertainment",ION
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999431
+https://fl3.moveonjoy.com/ION_TV/tracks-v1a1/mono.ts.m3u8
 
 # ION Plus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="Entertainment",ION Plus
@@ -121,11 +121,11 @@ https://fl5.moveonjoy.com/AMC_NETWORK/tracks-v1a1/mono.ts.m3u8
 
 # Syfy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Entertainment",Syfy
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999613
+https://fl3.moveonjoy.com/SYFY/index.m3u8
 
 # USA Network
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999520
+http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
 
 # CineLife
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",CineLife
@@ -145,7 +145,7 @@ http://blazetv.link:8080/petersjh@velocity.net/5285616160/999907
 
 # FXM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FXM
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/1041117
+https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.ts.m3u8
 
 # HBO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
