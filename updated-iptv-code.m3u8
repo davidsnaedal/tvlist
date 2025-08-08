@@ -187,25 +187,14 @@ http://blazetv.link:8080/petersjh@velocity.net/5285616160/999609
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="Movies",Starz
 https://fl3.moveonjoy.com/STARZ/tracks-v1a1/mono.ts.m3u8
 
-# Starz Comedy
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="Movies",Starz Comedy
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999966
-
-# Starz Edge
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="Movies",Starz Edge
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999967
-
-# Starz Encore
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="Movies",Starz Encore
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999969
-
-# Starz Encore Action
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999971
-
 # Starz Encore Classic
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="Movies",Starz Encore Classic
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999975
+https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+
+
+# Crave 2
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="Movies", Crave 2
+https://fl3.moveonjoy.com/CRAVE_3/index.m3u8
 
 # UDU.tv
 #EXTINF:-1 tvg-logo="https://udu.tv/wp-content/uploads/2022/08/UDUtv-Logo-cropped.png" group-title="Movies",UDU.tv
@@ -219,39 +208,6 @@ https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="Westerns",Grit (Opt-2)
 https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 
-# Starz Encore Westerns
-#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title=Westerns",Starz Encore Westerns
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999970
-
-# Animal Planet
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="Documentary",Animal Planet
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/706285
-
-# Discovery Channel
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentary",Discovery Channel
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/706286
-
-# Discovery Science
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="Documentary",Discovery Science
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/706288
-
 # History Hit Channel
 #EXTINF:-1 tvg-logo="https://historyhit.com/app/uploads/2020/09/Logo_Dark.png" group-title="Documentary",History Hit Channel
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
-
-# National Geographic Channel
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="Documentary",National Geographic Channel
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999461
-
-# NatGeo Wild
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentary",NatGeo Wild
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999459
-
-# CBS SPORTS HQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",CBS SPORTS HQ
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/999994
-
-# BeIN Sports
-#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports",BeIN Sports
-http://blazetv.link:8080/petersjh@velocity.net/5285616160/1001119
-
