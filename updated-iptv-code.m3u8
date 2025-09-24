@@ -139,9 +139,13 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FXM
 https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.ts.m3u8
 
+# Action Hollywood Movies
+#EXTINF:-1 tvg-logo="" group-title="Movies",Action Hollywood Movies
+https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.ts.m3u8
+
 # Hi-Yah!
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="Movies",Hi-Yah!
-https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 # Kung Fu+
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.watchneptune.tv/app-images/kung-fu-plus--thumb-horizontal-1716930234.jpg" group-title="Movies",Kung Fu+
