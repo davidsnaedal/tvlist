@@ -54,7 +54,8 @@ https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 
 # AMC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Entertainment",AMC
-https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzA3NDI3NTc0OH0
+https://v2.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8?token=rP6C-VVXEosVQY9KAR5t7g&expires=1758774979&user_id=OG5GS20wTUl1TExkdGtrV0E3NnVJVG13NUFsT0xqVWxDa1BhTkp2Ng==
+
 # AMC+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/abtANyj.png" group-title="Entertainment",AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
@@ -65,7 +66,7 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 # BBC America
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America East
-https://fl3.moveonjoy.com/BBC_AMERICA/tracks-v1a1/mono.ts.m3u8
+https://v13.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8?token=QfDSXfWeoMp99ZvqNk3YyQ&expires=1758775259&user_id=OG5GS20wTUl1TExkdGtrV0E3NnVJVG13NUFsT0xqVWxDa1BhTkp2Ng==
 
 # BBC America
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America West
@@ -81,7 +82,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 
 # BET
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="Entertainment",BET
-https://fl3.moveonjoy.com/BET_EAST/index.m3u8
+"https://v14.thetvapp.to/hls/BETEast/tracks-v2a1/mono.m3u8?token=v222-iK-K1qQueCuEhccAw&expires=1758775312&user_id=OG5GS20wTUl1TExkdGtrV0E3NnVJVG13NUFsT0xqVWxDa1BhTkp2Ng=="
 
 # Bounce TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Entertainment",Bounce TV
